@@ -1,3 +1,8 @@
+Forked from Alex Makarov's hoverboard-driver, ready for Raspberry Pi usage along with small optimizations
+
+See movement tests on 4 WD robot here:
+https://www.youtube.com/watch?v=pVyJj-FI5WA&lc=UgzIAbucYvYL9ePI7Qp4AaABAg
+
 # hoverboard-driver
 ![main workflow](https://github.com/alex-makarov/hoverboard-driver/actions/workflows/main.yml/badge.svg)
 
