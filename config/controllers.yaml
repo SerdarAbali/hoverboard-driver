@@ -1,5 +1,3 @@
-  GNU nano 2.5.3                                                      Tiedosto: controllers.yaml                                                                                                                    
-
 hoverboard_joint_publisher:
   type: "joint_state_controller/JointStateController"
   publish_rate: 50
