@@ -29,7 +29,7 @@ hoverboard_velocity_controller:
   base_frame_id: base_footprint #default: base_link
   allow_multiple_cmd_vel_publishers: true
   odom_frame_id: '/raw_odom'
-  enable_odom_tf: false
+  enable_odom_tf: true
 
   # Velocity and acceleration limits
   # Whenever a min_* is unspecified, default to -max_*
